@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"    
+     xmlns:atom="http://www.w3.org/2005/Atom">
+    <Document>
+        <name><![CDATA[peatlands]]></name>
+        
+                                    
+        <description><![CDATA[<br/><p> </p><p><br/>Converted using <b><a href='http://gpx2kml.com' title='Go to gpx2kml.com'>gpx2kml.com</a></b></p><br/>]]></description>
+        <visibility>1</visibility>
+        <open>1</open>
+        
+                <Style id="red">
+            <LineStyle>
+            <color>C81400FF</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_red">
+            <LineStyle>
+            <color>961400FF</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="green">
+            <LineStyle>
+            <color>C878FF00</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_green">
+            <LineStyle>
+            <color>9678FF00</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="blue">
+            <LineStyle>
+            <color>C8FF7800</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_blue">
+            <LineStyle>
+            <color>96FF7800</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="cyan">
+            <LineStyle>
+            <color>C8F0FF14</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_cyan">
+            <LineStyle>
+            <color>96F0FF14</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="orange">
+            <LineStyle>
+            <color>C81478FF</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_orange">
+            <LineStyle>
+            <color>961478FF</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="dark_green">
+            <LineStyle>
+            <color>C8008C14</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_dark_green">
+            <LineStyle>
+            <color>96008C14</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="purple">
+            <LineStyle>
+            <color>C8FF7878</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_purple">
+            <LineStyle>
+            <color>96FF7878</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="pink">
+            <LineStyle>
+            <color>C8A078F0</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_pink">
+            <LineStyle>
+            <color>96A078F0</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="brown">
+            <LineStyle>
+            <color>C8143C96</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_brown">
+            <LineStyle>
+            <color>96143C96</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="dark_blue">
+            <LineStyle>
+            <color>C8F01414</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_dark_blue">
+            <LineStyle>
+            <color>96F01414</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        
+                
+        <Folder>
+            <name>Waypoints</name>
+            <description>A list of waypoints</description>
+            <visibility>1</visibility>
+            <open>0</open>
+                                                                                
+            
+            <Placemark>
+                <name>Rolava - Jerabi jezero</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>12.588479</longitude>
+                    <latitude>50.405758</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        12.588479,50.405758,938.399963                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Rolava - spring</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>12.611361</longitude>
+                    <latitude>50.409096</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        12.611361,50.409096,932.862366                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Prebuz - velky mocal</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>12.635974</longitude>
+                    <latitude>50.395924</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        12.635974,50.395924,926.143066                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Rokytka - up</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>13.418814</longitude>
+                    <latitude>49.023285</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        13.418814,49.023285,1109.800049                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Rokytka - down</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>13.410316</longitude>
+                    <latitude>49.016476</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        13.410316,49.016476,1102.791260                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Cikanska slat</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>13.468320</longitude>
+                    <latitude>49.004707</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        13.468320,49.004707,1094.800049                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Kvilda - Jezerni slat</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>13.566038</longitude>
+                    <latitude>49.041508</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        13.566038,49.041508,1070.181396                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Tetřevská slať</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>13.548249</longitude>
+                    <latitude>49.025486</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        13.548249,49.025486,1143.197510                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Javoří</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>13.443987</longitude>
+                    <latitude>49.028137</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        13.443987,49.028137,1026.775879                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Mlynářská</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>13.458406</longitude>
+                    <latitude>49.022930</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        13.458406,49.022930,1054.404175                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Jizerka - Kořenov</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>15.327793</longitude>
+                    <latitude>50.827490</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        15.327793,50.827490,866.971802                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Jizerka - odvodneni</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>15.336459</longitude>
+                    <latitude>50.828590</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        15.336459,50.828590,871.055908                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Pančavské rašeliniště</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>15.539867</longitude>
+                    <latitude>50.765920</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        15.539867,50.765920,1326.351562                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Labská louka</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>15.538937</longitude>
+                    <latitude>50.770270</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        15.538937,50.770270,1358.906738                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Upske raseliniste</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>15.708239</longitude>
+                    <latitude>50.734330</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        15.708239,50.734330,1433.421143                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Černohorské rašeliniště</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>15.749159</longitude>
+                    <latitude>50.660473</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        15.749159,50.660473,1191.146973                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Rejvíz</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>17.287432</longitude>
+                    <latitude>50.220260</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        17.287432,50.220260,768.001038                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                            
+        </Folder>
+        
+                
+                
+        <LookAt>
+            <longitude>14.9379555</longitude>            
+            <latitude>49.9166485</latitude>             
+            <altitude>0</altitude>               
+            <heading>0</heading>               
+            <tilt>45</tilt>
+            <range>182216</range>                    
+            <altitudeMode>clampToGround</altitudeMode> 
+        </LookAt>
+    </Document>
+</kml>

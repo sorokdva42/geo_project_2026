@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://mapy.com/">
+	<wpt lat="50.405758" lon="12.588479">
+		<ele>938.399963</ele>
+		<name>Rolava - Jerabi jezero</name>
+	</wpt>
+	<wpt lat="50.409096" lon="12.611361">
+		<ele>932.862366</ele>
+		<name>Rolava - spring</name>
+	</wpt>
+	<wpt lat="50.395924" lon="12.635974">
+		<ele>926.143066</ele>
+		<name>Prebuz - velky mocal</name>
+	</wpt>
+	<wpt lat="49.023285" lon="13.418814">
+		<ele>1109.800049</ele>
+		<name>Rokytka - up</name>
+	</wpt>
+	<wpt lat="49.016476" lon="13.410316">
+		<ele>1102.791260</ele>
+		<name>Rokytka - down</name>
+	</wpt>
+	<wpt lat="49.004707" lon="13.468320">
+		<ele>1094.800049</ele>
+		<name>Cikanska slat</name>
+	</wpt>
+	<wpt lat="49.041508" lon="13.566038">
+		<ele>1070.181396</ele>
+		<name>Kvilda - Jezerni slat</name>
+	</wpt>
+	<wpt lat="49.025486" lon="13.548249">
+		<ele>1143.197510</ele>
+		<name>Tetřevská slať</name>
+	</wpt>
+	<wpt lat="49.028137" lon="13.443987">
+		<ele>1026.775879</ele>
+		<name>Javoří</name>
+	</wpt>
+	<wpt lat="49.022930" lon="13.458406">
+		<ele>1054.404175</ele>
+		<name>Mlynářská</name>
+	</wpt>
+	<wpt lat="50.827490" lon="15.327793">
+		<ele>866.971802</ele>
+		<name>Jizerka - Kořenov</name>
+	</wpt>
+	<wpt lat="50.828590" lon="15.336459">
+		<ele>871.055908</ele>
+		<name>Jizerka - odvodneni</name>
+	</wpt>
+	<wpt lat="50.765920" lon="15.539867">
+		<ele>1326.351562</ele>
+		<name>Pančavské rašeliniště</name>
+	</wpt>
+	<wpt lat="50.770270" lon="15.538937">
+		<ele>1358.906738</ele>
+		<name>Labská louka</name>
+	</wpt>
+	<wpt lat="50.734330" lon="15.708239">
+		<ele>1433.421143</ele>
+		<name>Upske raseliniste</name>
+	</wpt>
+	<wpt lat="50.660473" lon="15.749159">
+		<ele>1191.146973</ele>
+		<name>Černohorské rašeliniště</name>
+	</wpt>
+	<wpt lat="50.220260" lon="17.287432">
+		<ele>768.001038</ele>
+		<name>Rejvíz</name>
+	</wpt>
+</gpx>
+
